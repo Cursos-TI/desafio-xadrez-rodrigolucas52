@@ -42,12 +42,10 @@ int main(){
     MoverRainha(8); // Chama a função MoverRainha com 8 casas
     printf("\n"); // Imprime uma nova linha para separar os movimentos
 
-    MoverCavalo(2); // Chama a função MoverCavalo com 2 movimentos, duas casa para cima e uma a direita, usando break para controlar o fluxo
+    MoverCavalo(2); // Chama a função MoverCavalo com 2 movimentos 
     printf("\n"); // Imprime uma nova linha para separar os movimentos
 
   
     return 0; // Retorna 0 para indicar que o programa terminou com sucesso
 
 }
-
-
